@@ -3,3 +3,5 @@ tags:
   - table relations
 languages: 
   - SQLite
+
+parent_template: git@github.com:learn-co-curriculum/sql-table-relations-readme.git
